@@ -27,4 +27,4 @@ let jeanLucGodard = [
 ]
 
 let filmeRuim = retornaPrimeiraAvaliacaoMenorQueSete jeanLucGodard
-let nome, nota = filmeRuim // Por que eu não consigo fazer isso?
+let (filme, nota) = filmeRuim
