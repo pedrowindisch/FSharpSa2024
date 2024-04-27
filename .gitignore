@@ -3,6 +3,8 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+*.resultado.fsx
+
 # dotenv files
 .env
 
